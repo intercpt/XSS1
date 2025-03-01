@@ -36,7 +36,7 @@ SQL Injection
 
 ## **Description of the vulnerability**
 
-donor_id parameter in the Blood Bank Management System is vulnerable to SQL Injection. This allows attackers to inject malicious SQL queries to comprimise the entire data which could result compromise of Confidentiality, integrity and availability.
+donor_id parameter in the Blood Bank Management System is vulnerable to SQL Injection. This vulnerability allows attackers to inject malicious SQL queries to the backend database which could result compromise of Confidentiality, integrity and availability of the data and the system.
 
 
 ## **Vulnerability recurrence**
@@ -52,8 +52,7 @@ donor_id parameter in the Blood Bank Management System is vulnerable to SQL Inje
 
 ### Result
 
-This allows attackers to inject malicious SQL queries to comprimise the entire data which could result compromise of Confidentiality, integrity and availability.. 
-
+This vulnerability allows attackers to inject malicious SQL queries to the backend database which could result compromise of Confidentiality, integrity and availability of the data and the system.
 ```
 http://bloodbankmgmtsystem/blood%20bank2/user_dashboard/view_donor.php?donor_id=
 ```
