@@ -18,7 +18,7 @@ https://code-projects.org/
 
 ## Vulnerable File
 
-blood%20bank2/user_dashboard/view_donor.php?donor_id= donor_id parameter.
+\blood bank2\user_dashboard\view_donor.php donor_id parameter.
 
 ## VERSION(S)
 
