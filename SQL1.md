@@ -18,7 +18,7 @@ https://code-projects.org/
 
 ## Vulnerable File
 
-/blood bank2/user_dashboard/delete_requester.php?requester_id= requester_id parameter.
+\blood bank2\user_dashboard\delete_requester.php requester_id parameter.
 
 ## VERSION(S)
 
